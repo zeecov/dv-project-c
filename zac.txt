@@ -1,0 +1,2 @@
+This file is slely to test a merge conflict between this branch and the master
+Well this is becoming a bit confusing testinga merge conflict
