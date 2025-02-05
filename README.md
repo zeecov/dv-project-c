@@ -1,4 +1,3 @@
-This is just a file to add new files to our git directory for tracking.
-Doesn't do anything
-Lets add a new line into this file to confirm git commit -am 
-Good luck
+This project explains and recreate all fundamentals of git
+From commit to staging of a file
+Also recreating and resolving merge conflicts between branches in the local repo
